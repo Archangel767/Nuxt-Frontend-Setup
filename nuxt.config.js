@@ -13,7 +13,13 @@ export default {
           '2xl': 1536
         },
     },
+
   target: 'static',
+
+  router: {
+    base: '/<repository-name>/'
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - cpnt200-a1',
