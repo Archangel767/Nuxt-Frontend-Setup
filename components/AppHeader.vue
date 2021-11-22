@@ -21,6 +21,7 @@ export default {
   name: 'AppHeader'
 }
 </script>
+
 <style>
   .header {
     display: flex;
