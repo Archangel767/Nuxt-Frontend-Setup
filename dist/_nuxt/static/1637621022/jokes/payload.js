@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jokes", {data:[{_img:{"/_ipx/w_100/chuckle.jpeg":"\u002F_nuxt\u002Fimage\u002Fc49dbe.jpeg","/_ipx/w_200/chuckle.jpeg":"\u002F_nuxt\u002Fimage\u002F13ca88.jpeg","/_ipx/w_400/chuckle.jpeg":"\u002F_nuxt\u002Fimage\u002Fbac0cf.jpeg"}}],fetch:{},mutations:void 0});
