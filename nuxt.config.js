@@ -17,7 +17,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/<repository-name>/'
+    base: '/cpnt200-a1/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
